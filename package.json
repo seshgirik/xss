@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "express": "4.16.2",
-    "express-session": "1.15.6",
+    "express": "4.21.1",
+    "express-session": "1.18.1",
     "serve-static": "1.13.1"
   },
   "devDependencies": {},
